@@ -3,7 +3,7 @@
 ### Hi there 👋
 ## Fala pessoal! 👋
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário.
-Sou um Front-End Developer :computer:
+Um Front-End Developer :computer:
 
  :rocket:  &nbsp; Estou estudando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
