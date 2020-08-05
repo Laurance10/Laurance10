@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<!--
-**Laurance10/Laurance10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Victor Laurance
 
+### Hi there 👋
 ## Fala pessoal! 👋
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário.
 Sou um Front-End Developer :computer:
@@ -17,3 +13,6 @@ Sou um Front-End Developer :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/victor-laurance-267265191/) 
 | 
 Email: victorlrd13@hotmail.com / laurancerodrigues@gmail.com
+
+<!--
+**Laurance10/Laurance10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
