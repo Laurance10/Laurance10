@@ -8,7 +8,7 @@ Um Front-End Developer :computer:
  :rocket:  &nbsp; Estou estudando na **Rocketseat** e na **IGTI**, cursando Sistemas de Informação na **Anhembi Morumbi**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Full-Stack.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, Node.js, SQL. Porém estou em constanto aprendizado em novas tecnologias.
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, Node.js, SQL. Porém estou em constante aprendizado em novas tecnologias.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, estar com minha namorada, jogar meu futebol, videogame e viajar!
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/victorlaurance/
 | 
