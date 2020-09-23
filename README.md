@@ -3,7 +3,7 @@
 ### Hi there 👋
 ## Fala pessoal! 👋
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário.
-Um Front-End Developer :computer:
+Um Full-Stack Developer :computer:
 
  :rocket:  &nbsp; Estou estudando na **Rocketseat** e na **IGTI**, cursando Sistemas de Informação na **Anhembi Morumbi**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Full-Stack.
