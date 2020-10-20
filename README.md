@@ -5,7 +5,7 @@
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário.
 Um Full-Stack Developer :computer:
 
- :rocket:  &nbsp; Estou estudando na **Rocketseat** e na **IGTI**, cursando Sistemas de Informação na **Anhembi Morumbi**
+ :rocket:  &nbsp; Estou estudando na **Rocketseat** e na **IGTI**, cursando Sistemas de Informação na **Anhembi Morumbi** e trabalhando como Estagiário de Programação.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Full-Stack.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, Node.js, SQL. Porém estou em constante aprendizado em novas tecnologias.
