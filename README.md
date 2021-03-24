@@ -1,6 +1,7 @@
-# Victor Laurance
+# Victor Laurance 
 
-## Fala pessoal! 👋
+Fala pessoal! 👋
+
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário. :computer:
 
  :rocket:  &nbsp; Atualmente curso **Sistemas de Informação** pela Anhembi Morumbi EAD e trabalho como **Desenvolvedor Full-Stack Júnior**.
