@@ -5,7 +5,7 @@ Fala pessoal! 👋
 
 Sou um Dev apaixonado em resolver problemas e trazer a melhor experiência do usuário. :computer:
 
- :rocket:  &nbsp; Atualmente curso **Sistemas de Informação** pela Anhembi Morumbi EAD e trabalho como **Desenvolvedor Full-Stack Júnior**.
+ :rocket:  &nbsp; Atualmente curso **Sistemas de Informação** pela Anhembi Morumbi EAD e trabalho como **Desenvolvedor Back-End Júnior** na **Nick Builder**.
  <br/> :purple_heart: &nbsp; Busco colaborar com todos os tipos de projetos.
  <br/> :smiley: &nbsp; Posso te ajudar no que for possível!
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, jQuery, PHP, CodeIgniter, React, NodeJS e MySQL. Porém estou em constante aprendizado em novas tecnologias.
