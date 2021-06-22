@@ -1,5 +1,4 @@
-![Banner Victor Laurance](https://user-images.githubusercontent.com/57143675/114047338-01d5c000-9860-11eb-9079-acdd575ea6ec.png)
-
+![Banner Linkedin - Victor Laurance](https://user-images.githubusercontent.com/57143675/123000558-19fcac00-d386-11eb-992f-65691cb5681e.png)
 
 Fala pessoal! 👋
 
