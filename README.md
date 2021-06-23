@@ -1,3 +1,5 @@
+![Banner Linkedin - Victor Laurance](https://user-images.githubusercontent.com/57143675/123176041-2aca2200-d459-11eb-91c3-0bafb11ae8ed.png)
+
 <h1 align="center">Hi 👋, I'm Victor Laurance</h1>
 <h3 align="center">A mere Software Developer from Brazil!</h3>
 
