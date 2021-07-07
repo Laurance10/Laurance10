@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/laurance10](github.com/laurance10)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, CodeIgniter, React, Flutter, Node.js**
-
 - 📫 How to reach me **victorlrd13@hotmail.com / laurancerodrigues@gmail.com**
 
 - 📄 Know about my experiences [linkedin/in/victorlaurance](linkedin/in/victorlaurance)
