@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Victor Laurance</h1>
 <h3 align="center">A mere Software Developer from Brazil!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurance10&label=Profile%20views&color=0e75b6&style=flat" alt="laurance10" /> </p>
-
-- 🌱 I’m currently learning **Mobile Development**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurance10&label=Profile%20views&color=0e75b6&style=flat" alt="laurance10" /> </p
 
 - 👨‍💻 All of my projects are available at [github.com/laurance10](github.com/laurance10)
 
-- 📫 How to reach me **victorlrd13@hotmail.com / laurancerodrigues@gmail.com**
+- 📫 How to reach me **laurancerodrigues@gmail.com**
 
 - 📄 Know about my experiences [linkedin/in/victorlaurance](linkedin/in/victorlaurance)
 
